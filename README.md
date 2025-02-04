@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Photography portfolio showcasing beautiful pictures.">
+  <meta name="description" content="PMSorathiya">
   <title>Photography Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
